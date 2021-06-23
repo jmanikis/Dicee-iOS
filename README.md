@@ -10,6 +10,9 @@ App Completed as a part of Udemy Course - iOS &amp; Swift - The complete iOS App
 
 ## Topics Covered
  - Auto-Layout Practice
+ - Size Classes
+ - Constraints
+ - Containers and Subviews
  - Image Assets
  - Image Literals
  - IB Outlets / IBActions
